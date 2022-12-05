@@ -1,3 +1,5 @@
+![Inter-Process Communication](picture.png)
+
 # LDPL CIPC Library
 This is the LDPL CIPC (_Crappy Inter-Process Communication_) library. It's designed to
 allow [LDPL](https://github.com/lartu/ldpl) programs to communicate with each other. It's far from perfect. It's enough for
